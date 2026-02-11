@@ -6,6 +6,12 @@ A machine learning project predicting traffic accident risk using feature engine
 
 **[Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s5e10)** | Evaluation Metric: RMSE | Top 25% Ranking
 
+## Dataset Introduction
+
+The project uses a synthetic dataset that simulates real-world road conditions and associated accident risk probabilities. By accurately predicting high risk scenarios, we can have more precise infrastrcuture funding and data-driven urban planning. 
+
+
+
 ## Project Highlights
 
 - **37.76% MSE reduction** through strategic feature engineering
@@ -133,6 +139,9 @@ jupyter notebook cleaned_EDA.ipynb
 一個使用特徵工程和回歸建模技術預測交通事故風險的機器學習專案。此專案展示了從探索性分析(EDA)到模型部署的端到端數據科學工作流程。
 
 **[Kaggle 競賽](https://www.kaggle.com/competitions/playground-series-s5e10)** | 競賽Metric：RMSE | 前 25% 排名
+
+## 資料集簡介
+本專案採用合成(synthetic)數據集，模擬了現實世界中的道路狀況與交通事故風險機率。透過精準預測高風險情境，我們能更有效地分配交通基礎設施投資，並實現數據驅動的都市規劃。
 
 ## 專案亮點
 
